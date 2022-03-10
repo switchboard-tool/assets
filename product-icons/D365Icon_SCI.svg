@@ -1,0 +1,61 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="filter0_f">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.4" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter1_f">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="4" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter2_f">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.4" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter3_f">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="4" result="effect1_foregroundBlur"/>
+</filter>
+<linearGradient id="paint0_linear" x1="26.1036" y1="2.96458" x2="66.8529" y2="95.9681" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0B7418"/>
+<stop offset="1" stop-color="#054B16"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="77.5" y1="19.0005" x2="79.5" y2="91.5005" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6AD116"/>
+<stop offset="1" stop-color="#158915"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="79.5" y1="85.0005" x2="71.5" y2="39.5005" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8FDC50"/>
+<stop offset="1" stop-color="#C3F488"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="96" height="96" fill="white"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip0)">
+<mask id="mask0" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="4" width="96" height="85">
+<path d="M8.04975 88.0005C1.84876 88.0005 -1.99461 81.2507 1.16988 75.9179L41.1201 8.59435C44.2196 3.3711 51.7804 3.37111 54.8799 8.59435L94.8301 75.9179C97.9946 81.2507 94.1512 88.0005 87.9502 88.0005L8.04975 88.0005Z" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M8.04975 88.0005C1.84876 88.0005 -1.99461 81.2507 1.16988 75.9179L41.1201 8.59435C44.2196 3.3711 51.7804 3.37111 54.8799 8.59435L94.8301 75.9179C97.9946 81.2507 94.1512 88.0005 87.9502 88.0005L8.04975 88.0005Z" fill="url(#paint0_linear)"/>
+<g filter="url(#filter0_f)">
+<path d="M34.0594 88.4003C27.8563 88.4003 24.0132 81.6464 27.1819 76.3137L54.1225 30.9747C57.223 25.7568 64.777 25.7568 67.8775 30.9747L94.8181 76.3138C97.9868 81.6465 94.1437 88.4004 87.9406 88.4004L34.0594 88.4003Z" fill="black" fill-opacity="0.24"/>
+</g>
+<g filter="url(#filter1_f)">
+<path d="M34.0594 90.0004C27.8563 90.0004 24.0132 83.2465 27.1819 77.9138L54.1225 32.5748C57.223 27.3569 64.777 27.3569 67.8775 32.5748L94.8181 77.9139C97.9868 83.2466 94.1437 90.0005 87.9406 90.0005L34.0594 90.0004Z" fill="black" fill-opacity="0.32"/>
+</g>
+<path d="M34.0594 88.0004C27.8563 88.0004 24.0132 81.2465 27.1819 75.9138L54.1225 30.5748C57.223 25.3569 64.777 25.3569 67.8775 30.5748L94.8181 75.9139C97.9868 81.2466 94.1437 88.0005 87.9406 88.0005L34.0594 88.0004Z" fill="url(#paint1_linear)"/>
+<g filter="url(#filter2_f)">
+<path d="M60.078 88.4004C53.8708 88.4004 50.0283 81.6385 53.2052 76.3059L67.1272 52.9369C70.2295 47.7295 77.7705 47.7295 80.8728 52.9369L94.7948 76.306C97.9716 81.6385 94.1291 88.4004 87.922 88.4004L60.078 88.4004Z" fill="black" fill-opacity="0.24"/>
+</g>
+<g filter="url(#filter3_f)">
+<path d="M60.078 90.0005C53.8708 90.0004 50.0283 83.2386 53.2052 77.906L67.1272 54.537C70.2295 49.3296 77.7705 49.3296 80.8728 54.537L94.7948 77.9061C97.9716 83.2386 94.1291 90.0005 87.922 90.0005L60.078 90.0005Z" fill="black" fill-opacity="0.32"/>
+</g>
+<path d="M60.078 88.0005C53.8708 88.0004 50.0283 81.2386 53.2052 75.906L67.1272 52.537C70.2295 47.3296 77.7705 47.3296 80.8728 52.537L94.7948 75.9061C97.9716 81.2386 94.1291 88.0005 87.922 88.0005L60.078 88.0005Z" fill="url(#paint2_linear)"/>
+</g>
+</g>
+</svg>
